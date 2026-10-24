@@ -1,3 +1,8 @@
+
+<p align="center">
+  <img src="vlsi-banner.png" width="100%" alt="Shruti Khatavkar - Aspiring VLSI and RTL Design Engineer">
+</p>
+
 # Hi, I'm Shruti Khatavkar 
 
 ### ECE Student | Aspiring VLSI & RTL Design Engineer
