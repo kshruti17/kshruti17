@@ -11,6 +11,15 @@ I'm passionate about digital hardware design, Verilog HDL, and semiconductor tec
 
 ## 🔧 Technical Skills
 
+<p>
+  <img src="https://img.shields.io/badge/Verilog%20HDL-6A5ACD?style=flat-square" alt="Verilog HDL">
+  <img src="https://img.shields.io/badge/Digital%20Design-34495E?style=flat-square" alt="Digital Design">
+  <img src="https://img.shields.io/badge/RTL%20Design-5B6C8F?style=flat-square" alt="RTL Design">
+  <img src="https://img.shields.io/badge/Functional%20Verification-566573?style=flat-square" alt="Functional Verification">
+  <img src="https://img.shields.io/badge/Embedded%20Systems-648C82?style=flat-square" alt="Embedded Systems">
+</p>
+
+
 - HDL: Verilog
 - Digital Design: Logic gates, adders, multiplexers, flip-flops, counters, FSMs
 - Verification: Testbench development and simulation
