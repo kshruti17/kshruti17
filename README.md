@@ -51,6 +51,20 @@ My major academic project explores hardware-based evidence protection using AES-
 
 ## 🎯 Current Goals
 
+## 📚 Currently Learning
+
+- **Verilog HDL:** Writing synthesizable RTL and reusable modules
+- **FSM Design:** State transitions and sequence detectors
+- **Functional Verification:** Testbench development and simulation
+- **Digital Design:** Strengthening combinational and sequential logic
+
+## 🎯 Career Goal
+
+Building a strong foundation for opportunities in **VLSI Design, RTL Design, and Functional Verification**.
+
+I learn by implementing designs, testing different input conditions, debugging issues, and documenting simulation results.
+
+
 - Strengthen my Verilog and RTL design skills.
 - Build practical digital design and verification projects.
 - Learn semiconductor design and industry workflows.
